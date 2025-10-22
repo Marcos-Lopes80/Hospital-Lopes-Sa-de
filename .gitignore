@@ -1,0 +1,21 @@
+# Arquivos de Ambiente
+.env
+
+# Arquivos de Banco de Dados e Índices
+*.db
+*.db-journal
+*.index
+
+# Diretórios de cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Diretórios de ambiente virtual
+.venv/
+venv/
+ENV/
+
+# Arquivos de IDE
+.idea/
+.vscode/

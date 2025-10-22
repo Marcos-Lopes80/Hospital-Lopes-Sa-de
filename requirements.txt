@@ -1,0 +1,11 @@
+python-dotenv
+openai
+google-generativeai
+anthropic
+sqlalchemy
+sentence-transformers
+faiss-cpu
+langchain
+PyGithub
+fastapi
+uvicorn
